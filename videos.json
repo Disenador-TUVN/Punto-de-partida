@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Primer video semanal",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
+    "theme": "Liderazgo",
+    "value": "Servicio",
+    "duration": "12:35",
+    "date": "2026-05-26",
+    "description": "Reflexión sobre liderazgo y servicio."
+  },
+  {
+    "title": "Nuevo video de la semana",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ID_DEL_VIDEO",
+    "theme": "Familia",
+    "value": "Amor",
+    "duration": "10:20",
+    "date": "2026-06-02",
+    "description": "Reflexión sobre amor y familia."
+  }
+]
