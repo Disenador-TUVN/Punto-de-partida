@@ -1,10 +1,11 @@
 [
   {
-    "id": 1,
-    "titulo": "Liderar sirviendo",
-    "youtubeId": "iUtppXcc89g",
-    "duracion": "12:35",
-    "fecha": "2026-05-05",
-    "tags": ["liderazgo"]
+    "title": "Primero video semanal",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
+    "theme": "Liderazgo",
+    "value": "Servicio",
+    "duration": "12:35",
+    "date": "2026-05-26",
+    "description": "Reflexión sobre liderazgo y servicio."
   }
 ]
