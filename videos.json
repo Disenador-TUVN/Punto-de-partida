@@ -1,74 +1,50 @@
 [
   {
-    "title": "Primer video semanal",
+    "title": "Liderar Sirviendo",
     "youtubeUrl": "https://www.youtube.com/watch?v=iUtppXcc89g",
     "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
+    "duration": "3:29",
+    "date": "2026-04-20",
     "description": "Reflexión sobre liderazgo y servicio."
   },
    {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=0FUPNjDDSmE&list=PLv_pWMjl6LUku4nFh6ObD66UioIvhq8qB&index=2",
+    "title": "Liderar con el ejemplo ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0FUPNjDDSmE",
     "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
+    "duration": "3:17",
+    "date": "2026-04-27",
+    "description": "El lider cristiano guía más por lo que vive que por lo que dice."
   },
    {
-    "title": "Primer video semanal",
+    "title": "¿Cómo llegar a tener un carácter íntegro? ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FgNhKM2_n6M",
+    "theme": "Integridad;Liderazgo",
+    "duration": "3:54",
+    "date": "2026-05-02",
+    "description": "¿Quién eres cuando nadie te observa?"
+  },
+   {
+    "title": "Liderar con visión",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ondbKZ1C69Y",
+    "theme": "Liderazgo",
+    "duration": "3:37",
+    "date": "2026-05-09",
+    "description": "Ver más allá del presente y vivir para el Reino."
+  },
+   {
+    "title": "Ver al otro como lo hizo Jesús",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yBOujbZDovk",
+    "theme": "Liderazgo",
+    "duration": "3:31",
+    "date": "2026-05-16",
+    "description": "Jesús nos enseñó que el amor no se trata solo de sentir, sino de actuar."
+  },
+   {
+    "title": "¡Debemos dar la milla extra por el otro!",
     "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
     "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
-  },
-   {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
-    "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
-  },
-   {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
-    "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
-  },
-   {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
-    "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
-  },
-   {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
-    "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
-    "description": "Reflexión sobre liderazgo y servicio."
-  },
-   {
-    "title": "Primer video semanal",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Nr2iMy4PZsM",
-    "theme": "Liderazgo",
-    "value": "Servicio",
-    "duration": "12:35",
-    "date": "2026-05-26",
+    "duration": "3:50",
+    "date": "2026-05-23",
     "description": "Reflexión sobre liderazgo y servicio."
   }
 ]
